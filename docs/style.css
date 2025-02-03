@@ -51,6 +51,37 @@ header nav a {
     font-size: 1.2em;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--header-background-color); /* Changed to header background color */
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 var(--box-shadow-color);
+    z-index: 1;
+    padding: 10px 0; /* Added padding for better spacing */
+}
+
+.dropdown-content a {
+    color: var(--navbar-text-color);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: var(--primary-color);
+    color: var(--header-text-color); /* Added text color for better readability */
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 a:hover {
     color: var(--primary-color); /* Set hover color to theme color */
 }
