@@ -1,2 +1,2 @@
 # eportfolio
-e-portfolio for the ODU cybersecurity program
+William Faircloth's e-portfolio for the ODU cybersecurity program
