@@ -2,15 +2,14 @@
     <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
+        <li><a href="/about-me">About Me</a></li>
+        <li><a href="/blog">Blog</a></li>
         <li class="dropdown">
-            <a href="/portfolio" class="dropbtn">Portfolio</a>
+            <a href="#" class="dropbtn">Classes</a>
             <div class="dropdown-content">
-                <a href="/portfolio/project1">Project 1</a>
-                <a href="/portfolio/project2">Project 2</a>
-                <a href="/portfolio/project3">Project 3</a>
+                <a href="/classes/cyse200t">CYSE200T</a>
             </div>
         </li>
-        <li><a href="/contact">Contact</a></li>
     </ul>
 </nav>
 <slot />
