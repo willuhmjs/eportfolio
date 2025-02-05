@@ -13,11 +13,15 @@
 <style>
     :global(body) {
         font-family: Arial,ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";
-        background-color: #121212;
-        color: #e0e0e0;
+        padding: 0;
+        margin: 0;
     }
     nav {
-        background-color: #333;
+        background-color: rgba(50, 50, 50, 0.9);
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
         overflow: hidden;
     }
     nav ul {
