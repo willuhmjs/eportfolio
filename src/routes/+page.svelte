@@ -40,12 +40,7 @@
     font-size: 2em;
     color: #16a085;
   }
-  .content ul {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin-bottom: 20px;
-  }
-  .content p, .content li {
+  .content p{
     line-height: 1.6;
     font-size: 1.1rem; 
     color: #7f8c8d;
