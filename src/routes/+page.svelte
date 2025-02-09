@@ -86,7 +86,7 @@
 
 <div class="content">
   <h2>About Me</h2>
-  <p>I am a full-stack developer and cybersecurity student with a decade of software development experience. I hold CompTIA Security+ and GIAC Foundational Cybersecurity Technologies (GFACT) certifications and specialize in Node.js, TypeScript, Python, C#, and web frameworks like SvelteKit. Currently studying Cybersecurity & Computer Science at Old Dominion University, I maintain an active GitHub portfolio with over 100 projects. </p>
+  <p>I am a full-stack developer and cybersecurity student with a decade of software development experience. I hold CompTIA Security+ and GIAC Foundational Cybersecurity Technologies (GFACT) certifications and specialize in Node.js, TypeScript, Python, C#, and web frameworks like SvelteKit. Currently studying Cybersecurity & Computer Science at Old Dominion University, I maintain an active <a href="https://github.com/willuhmjs" target="_blank">GitHub portfolio</a> with over 100 projects. </p>
   <h2>Experience</h2>
   <div class="experience-container">
     <div class="experience-card">
