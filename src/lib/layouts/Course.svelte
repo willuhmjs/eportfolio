@@ -30,6 +30,12 @@
     padding-left: 1rem;
     margin: 1rem 0;
   }
+
+  :global(.blog-post-container p) {
+    line-height: 1.6;
+    font-size: 1.1rem; 
+    color: #7f8c8d;
+  }
 </style>
 
 <div class="blog-post-container">

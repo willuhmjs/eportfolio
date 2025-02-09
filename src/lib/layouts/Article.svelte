@@ -21,8 +21,10 @@
     font-size: 2rem;
     margin-bottom: 10px;
   }
-  :global(p) {
-    line-height: 2;
+  :global(.blog-post-container p) {
+    line-height: 1.6;
+    font-size: 1.1rem; 
+    color: #7f8c8d;
   }
   .published-date {
     color: #7f8c8d;
