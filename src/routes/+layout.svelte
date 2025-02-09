@@ -1,9 +1,12 @@
+<script>
+    import { base } from "$app/paths";
+</script>
 <nav>
     <ul>
         <li class="dropdown">
             <a href="#">Capstone Courses</a>
             <div class="dropdown-content">
-                <a href="/c/cyse368">CYSE 368</a>
+                <a href="{base}/c/cyse368">CYSE 368</a>
             </div>
         </li>
         <!-- <li class="dropdown">
@@ -14,17 +17,17 @@
         <li class="dropdown">
             <a href="#">Application Courses</a>
             <div class="dropdown-content">
-                <a href="/c/cyse270">CYSE 270</a>
+                <a href="{base}/c/cyse270">CYSE 270</a>
             </div>
         </li>
        
         <li class="dropdown">
             <a href="#">Core Courses</a>
             <div class="dropdown-content">
-                <a href="/c/cyse200t">CYSE 200T</a>
+                <a href="{base}/c/cyse200t">CYSE 200T</a>
             </div>
         </li>
-        <li><a href="/">Home</a></li>
+        <li><a href="{base}/">Home</a></li>
     </ul>
 </nav>
 <slot />
