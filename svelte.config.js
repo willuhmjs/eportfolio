@@ -7,7 +7,10 @@ const config = {
 	// Consult https://svelte.dev/docs/kit/integrations
 	// for more information about preprocessors
 	preprocess: [vitePreprocess(), mdsvex({
-		layout: "src/lib/layouts/Default.svelte",
+		layout: {
+			course: "src/lib/layouts/Course.svelte",
+			article: "src/lib/layouts/Article.svelte"
+		},
 	})],
 
 	kit: {

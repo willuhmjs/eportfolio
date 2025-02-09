@@ -2,4 +2,18 @@
 course: Cybersecurity, Technology, and Society
 number: CYSE 200T
 catalog: Students will explore how technology is related to cybersecurity from an interdisciplinary orientation. Attention is given to the way that technologically-driven cybersecurity issues are connected to cultural, political, legal, ethical, and business domains.
+layout: course
 ---
+## Course Material
+
+<ul>
+    <li>
+    <a href="/c/cyse200t/a/theciatriad">The CIA Triad</a>
+    </li>
+</ul>
+
+<style>
+    li {
+        font-size: 1.2rem;
+    }
+</style>

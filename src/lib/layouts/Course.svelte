@@ -11,17 +11,17 @@
     background-color: #f9f9f9;
     border-radius: 8px;
   }
-  h1 {
+  :global(.blog-post-container h1) {
     color: #2c3e50;
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
   }
-  h2 {
+  :global(.blog-post-container h2) {
     color: #16a085;
     font-size: 2rem;
     margin-bottom: 1rem;
   }
-  blockquote {
+  :global(.blog-post-container blockquote) {
     color: #7f8c8d;
     font-style: italic;
     border-left: 4px solid #16a085;
@@ -36,5 +36,5 @@
     <h1>{course}</h1>
     <h2>{number}</h2>
     <blockquote>{catalog}</blockquote>
-    <slot />
+    <slot/>
 </div>

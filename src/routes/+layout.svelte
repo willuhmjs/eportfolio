@@ -89,4 +89,13 @@
     .dropdown:hover .dropdown-content {
         display: block;
     }
+
+    :global(a) {
+        color: #16a085;
+    }
+
+    :global(a:visited) {
+        color: #0d6352;
+    }
+
 </style>

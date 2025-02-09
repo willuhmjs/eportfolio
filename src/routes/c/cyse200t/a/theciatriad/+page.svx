@@ -1,0 +1,39 @@
+---
+title: The CIA Triad
+date: 02-08-2025
+layout: article
+---
+
+## Abstract
+
+The CIA Triad—Confidentiality, Integrity, and Availability—is a fundamental model for information security. It is essential for a cybersecurity professional to understand and apply these principles to protect business assets and maintain compliance with industry standards. To help establish these principles, this write-up explores each triad component and its significance in a business context.
+
+## Confidentiality
+
+Confidentiality ensures that sensitive information is only accessed by authorized parties. According to Wesley Chai, an author for TechTarget, businesses achieve confidentiality through encryption, access control measures, and various organizational policies such as need-to-know access restrictions. On the other hand, a breach of confidentiality can be devastating for a business; financial losses, legal consequences, and reputational damage may result from a violation of these principles.   
+Subsequently, the argument is often made that confidentiality is the most essential part of the CIA Triad. After all, a breach in the confidentiality of data is the primary concern of data leaks worldwide. Although integrity and availability are crucial to the success of a business, a breach of confidentially will almost certainly harm an organization. To maintain the latest standards in confidentiality, organizations must implement robust authentication mechanisms, such as multi-factor authentication (MFA), to safeguard data from unauthorized access. 
+
+## Authorization vs Authentication
+
+Authorization and authentication are essential vocabulary words in the field of cybersecurity. Despite this, few know the difference between the two. In basic terms, authentication involves confirming a user's identity, whereas authorization pertains to determining what resources they can access (Okta, 2024). For example, when a user logs into their email account by entering a password or using biometric data like a fingerprint, the system performs authentication by verifying their identity. Similarly, after the identity is confirmed, the system might restrict access to sensitive settings or features based on the user's role, illustrating authorization in action.
+
+## Integrity
+
+Integrity is essential for ensuring that data remains accurate, consistent, and unchanged throughout its storage, transmission, and processing. According to Chai, it is paramount that organizations implement means to detect changes in data that may occur due to unpredictable events like EMPs or server failure. To do this, businesses depend on integrity controls such as checksums to verify integrity. Businesses also utilize digital signatures for nonrepudiation and version control to protect against unauthorized or accidental modifications (Hashemi & Chai, n.d.). According to an article by Fortinet, a leading enterprise VPN solution provider, when integrity is compromised, it can break customer trust. Therefore, regular audits and data validation processes are crucial to upholding the integrity of critical business information.
+
+## Availability
+
+Availability ensures that information and systems are accessible when needed. Downtime due to cyberattacks, hardware failures, or natural disasters can severely impact business operations. According to Chai, companies implement redundancy measures such as high availability, failover systems, and RAID solutions to ensure continuous availability. Backups are essential for maintaining availability (Fortinet, 2025). Chai corroborates this by noting that backups should be stored in a safe and geographically isolated environment whenever possible.
+
+## Business Applications of the CIA Triad
+
+To put it simply, the CIA Triad is critical to company operations. Companies protect confidentiality by encrypting sensitive data and implementing access restrictions that comply with GDPR and HIPAA. Furthermore, audits and data validation helps to prevent unauthorized modifications and create confidence (Hashemi & Chai, n.d.). Redundancy and backups provide system availability and reduce downtime (Fortinet, 2025).
+
+## Conclusion
+
+The CIA Triad forms the cornerstone of comprehensive information security strategies, enabling organizations to mitigate risks, comply with regulatory standards, and maintain stakeholder trust. Although they may seem technical at first, the points of the CIA Triad establish the cornerstone for a healthy and successful business.
+
+## References
+Fortinet. (2025). *What is the CIA Triad and Why is it important?* Fortinet. Retrieved February 1, 2025, from https://www.fortinet.com/resources/cyberglossary/cia-triad  
+Hashemi, C., & Chai, W. (n.d.). *What is the CIA Triad? | Definition from*. TechTarget. Retrieved February 1, 2025, from https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA  
+Okta. (2024). *Authentication vs. Authorization \- Identity Fundamentals*. Auth0. Retrieved February 1, 2025, from https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization  
