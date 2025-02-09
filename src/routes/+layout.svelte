@@ -1,12 +1,10 @@
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
         <li class="dropdown">
-            <a href="#" class="dropbtn">Classes</a>
-            <div class="dropdown-content">
-                <a href="/classes/cyse200t">CYSE200T</a>
-            </div>
+            <a href="#">Classes</a>
         </li>
+        <li><a href="/">Home</a></li>
+
     </ul>
 </nav>
 <slot />
@@ -17,12 +15,15 @@
         margin: 0;
     }
     nav {
-        background-color: rgba(50, 50, 50, 0.9);
+        background-color: rgba(50, 50, 50, 0.8);
+        text-transform: uppercase;
+        
         position: fixed;
         left: 0;
         top: 0;
         width: 100%;
         overflow: hidden;
+        z-index: 1000;
     }
     nav ul {
         list-style-type: none;
@@ -30,40 +31,18 @@
         padding: 0;
     }
     nav ul li {
-        float: left;
+        float: right;
     }
     nav ul li a {
         display: block;
         color: white;
         text-align: center;
-        padding: 14px 16px;
+        padding: 20px 16px; 
         text-decoration: none;
+        font-size: 15px; 
+        letter-spacing: 1px; 
     }
     nav ul li a:hover {
-        background-color: #111;
-    }
-    nav ul li.dropdown {
-        display: inline-block;
-    }
-    nav ul li .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #333;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
-    nav ul li .dropdown-content a {
-        color: #e0e0e0;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        text-align: left;
-    }
-    nav ul li .dropdown-content a:hover {
-        background-color: #111;
-    }
-    nav ul li:hover .dropdown-content {
-        display: block;
+        color: lightgray;
     }
 </style>
