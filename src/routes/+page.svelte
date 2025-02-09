@@ -5,21 +5,26 @@
     background-image: url('/wide_will.png');
     background-size: cover;
     background-position: center;
-    color: black;
     display: flex;
     align-items: center;
     padding: 20px;
     box-shadow: inset 0 -60px 60px -20px rgba(0, 0, 0, 0.3);
     justify-content: center;
     text-align: center;
+    background-color: rgba(50, 50, 50, 0.8);
   }
   .jumbotron-text {
     max-width: 50%;
+    color: #2c3e50;
   }
 
   .jumbotron-text h1 {
-    font-size: 3em;
+    font-size: 3.5rem;
     margin-bottom: 20px;
+  }
+
+  .jumbotron-text > *:not(h1) {
+    font-size: 1.6rem;
   }
 
   .content {
@@ -27,10 +32,13 @@
     max-width: 1200px;
     margin: 0 auto;
     overflow: hidden;
+    background-color: #f9f9f9;
+    border-radius: 8px;
   }
   .content h2 {
     margin-top: 20px;
     font-size: 2em;
+    color: #16a085;
   }
   .content ul {
     list-style-type: disc;
@@ -40,6 +48,7 @@
   .content p, .content li {
     line-height: 1.6;
     font-size: 1.1rem; 
+    color: #7f8c8d;
   }
   .experience-container {
     display: flex;
@@ -54,9 +63,11 @@
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
   }
   .experience-card h3 {
     margin-top: 0;
+    color: #2c3e50;
   }
   .certifications-container {
     display: flex;
@@ -71,16 +82,18 @@
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
   }
   .certification-card h3 {
     margin-top: 0;
+    color: #2c3e50;
   }
 </style>
 
 <div class="jumbotron">
   <div class="jumbotron-text">
     <h1>William Faircloth</h1>
-    <p>Cybersecurity & Computer Science @ Old Dominion University</p>
+    <h2>Cybersecurity E-Portfolio</h2>
   </div>
 </div>
 
@@ -102,7 +115,7 @@
       <p><em>Jun 2024 - Aug 2024</em></p>
     </div>
   </div>
-  <h2>Licenses & certifications</h2>
+  <h2>Licenses & Certifications</h2>
   <div class="certifications-container">
     <div class="certification-card">
       <h3>CompTIA Security+</h3>

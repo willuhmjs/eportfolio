@@ -1,4 +1,0 @@
-# About Me
-Hello! My name is William Faircloth. I am a student in the ODU BS Cybersecurity program. My goal is to leverage my skills and knowledge in cybersecurity to make a significant impact in the field. Throughout my studies, I have gained valuable experience in various topics such as network security, ethical hacking, and digital forensics. I am passionate about protecting information and ensuring the safety of digital assets. I look forward to applying my expertise in a professional setting and contributing to the advancement of cybersecurity.
-
-<img src="/will.jpg" alt="William Faircloth" style="width:200px;height:auto;">
