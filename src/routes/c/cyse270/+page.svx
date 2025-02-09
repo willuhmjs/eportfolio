@@ -1,0 +1,6 @@
+---
+course: Linux System for Cybersecurity
+number: CYSE 270
+catalog: This course introduces the basic operations in major Linux distros for cybersecurity using both graphical interface and command line interface. Students will learn about the basic installation and configuration, file systems management, shell scripts, and user authentication in Linux systems. This course is the technical base for students to take cybersecurity major courses.
+layout: course
+---

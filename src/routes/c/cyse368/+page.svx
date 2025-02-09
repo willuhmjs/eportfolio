@@ -1,0 +1,6 @@
+---
+course: Cybersecurity Internship
+number: CYSE 368
+catalog: Internships provide a personalized exploration of structured employment within the major. This course mandates an initial or ongoing internship that the student obtains, as assignments are rooted in their concurrent internship experience. Course assignments will define the employment relationship, articulate learning outcomes, and offer opportunities for reflection to enhance the student’s academic, career, and professional readiness. Students must complete 50 hours of site work per course credit.
+layout: course
+---
