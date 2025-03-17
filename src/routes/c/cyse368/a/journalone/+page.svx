@@ -1,0 +1,20 @@
+---
+title: Reflection Paper 1
+date: 02-14-2025
+layout: article
+---
+
+CS Systems Group maintains the infrastructure for the entire Computer Science department at Old Dominion University. This includes multiple computer labs and data centers across two buildings on campus, the Engineering and Computational Science Building and Dragas Hall. As an IT Consultant for Systems Group, I answer support tickets, complete learning projects, and assist the System Engineers with various production tasks. When a consultant is considered experienced enough to help with production tasks daily instead of support tickets, they are promoted to system administrator, which is the position between the system engineers and consultants; this is what the learning projects are for.  
+
+The learning projects are split into categories with different tiers. As a new consultant, I had to complete introductory Networking, Windows, and Linux projects before being considered a qualified consultant. So far, I have completed many support tickets and have completed the first two levels of projects. Due to my unique web development skillset, the System Engineers have given me multiple opportunities to improve our web infrastructure. For instance, I created [https://ai.cs.odu.edu](https://ai.cs.odu.edu) to allow students to communicate with our support assistant, Archibald, powered by our in-house large language model.  
+ 
+I have just finished my third Linux project, which involves configuring Ansible playbooks. Since I have completed this project, the System Engineers have determined that I am capable enough to lead the creation of a mirror server that will mirror the Ubuntu archive and CD repositories. After it is created, I will apply to become an official mirror server of Ubuntu, and we will be listed on their website as such.  
+
+### Figure 1: The CS Datacenter in Dragas Hall
+
+<img src="$lib/IMG_1069.jpg" alt="The CS Datacenter in Dragas Hall" width="500"/>
+
+### Figure 2: My Workstation in Dragas Hall
+
+<img src="$lib/IMG_1068.jpg" alt="My Workstation in Dragas Hall" width="500"/>
+

@@ -4,3 +4,25 @@ number: CYSE 368
 catalog: Internships provide a personalized exploration of structured employment within the major. This course mandates an initial or ongoing internship that the student obtains, as assignments are rooted in their concurrent internship experience. Course assignments will define the employment relationship, articulate learning outcomes, and offer opportunities for reflection to enhance the student’s academic, career, and professional readiness. Students must complete 50 hours of site work per course credit.
 layout: course
 ---
+
+
+<script>
+    import { base } from '$app/paths';
+</script>
+
+## Course Material
+
+<ul>
+    <li>
+    <a href="{base}/c/cyse368/a/journalone">Reflection Paper 1</a>
+    </li>
+    <li>
+    <a href="{base}/c/cyse368/a/journaltwo">Reflection Paper 2</a>
+    </li>
+</ul>
+
+<style>
+    li {
+        font-size: 1.2rem;
+    }
+</style>

@@ -1,0 +1,15 @@
+---
+title: Reflection Paper 2
+date: 03-06-2025
+layout: article
+---
+
+In my last journal entry, I introduced the reader to the mirror project I am working on for CS Systems Group. I have made significant progress since the previous entry, so I will describe my work in greater detail in this reflection.
+
+The first step of the process was determining the project's bandwidth and storage requirements, as these are the most stressful when hosting a mirror server. After trying a few candidates, we decided on a Dell PowerEdge R740 server with over 100TB of internal storage. Our estimates brought the total mirror size to about ~35TB with room to grow. 
+
+The mirror infrastructure itself was written with Ansible, an infrastructure-as-code tool that allows operations teams to deploy infrastructure across multiple machines in minutes. Setting up the mirror server was as simple as making minor tweaks and then applying the playbook to the server. The playbook has numerous roles that set the admin users, configure the firewall, create the cron jobs and scripts to update the mirror and send logs to our Grafana instance via Grafana Alloy.
+
+At the time of this writing, the mirror is currently syncing and already contains 14TB of mirrored data. There are only a few more tasks that we must do before we can open the mirror to the public, the most important of which is setting up an isolated network. Hence, the rest of the computer science architecture is safe if there is a security breach in the mirror server. This task is incredibly challenging because the routing tables that make up the computer science infrastructure are complicated, so I am working with the lead System Engineer to safely deploy the mirror network to our switch and FortiGate infrastructure.
+
+In addition to the mirror project, I’ve been working with a System Administrator on a web application that will allow us to monitor and control the numerous CS computer labs on campus. This will result in more reliable lab service for students and less time spent ensuring labs are in good working order.
