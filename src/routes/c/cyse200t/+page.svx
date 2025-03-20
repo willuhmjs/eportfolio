@@ -15,6 +15,9 @@ layout: course
     <li>
     <a href="{base}/c/cyse200t/a/theciatriad">The CIA Triad</a>
     </li>
+        <li>
+    <a href="{base}/c/cyse200t/a/scada">SCADA Systems and Cybersecurity</a>
+    </li>
 </ul>
 
 <style>

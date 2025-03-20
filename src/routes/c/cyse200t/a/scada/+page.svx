@@ -1,0 +1,21 @@
+---
+title: SCADA Systems and Cybersecurity
+date: 03-19-2025
+layout: article
+---
+
+## Abstract
+Supervisory Control and Data Acquisition (SCADA) systems are critical to industry because they manage critical infrastructure and manufacturing processes through extensive monitoring and response. When SCADA systems emerged, they were within isolated systems, unable to connect to the Internet. Now, SCADA networks have evolved to communicate with the Internet, introducing many vulnerabilities and cyber threats to SCADA systems. Hardening SCADA systems should be our priority if securing critical infrastructure is our goal.
+## How SCADA Systems Work
+SCADA is an Industrial Control System (ICS) or an instrument designed to control and automate industrial processes (TrendMicro). SCADA systems, in particular, rely on various components. Examples include field devices, controllers, and a central management unit that controls the industrial processes. These devices then coordinate with Remote Terminal Units (RTUs) and Programmable Logic Controllers (PLC) to send data to the Main Terminal Unit. The MTU is the last step in the process before the data is sent to Human-Machine Interfaces to be seen by human operators.
+## SCADA Security Risks
+Since early SCADA systems were designed for isolated networks with proprietary protocols, industrialists were not concerned about cybersecurity. However, as these control systems have become connected to the Internet, they are now vulnerable to threats from outside actors worldwide. Furthermore, modern SCADA systems control vital infrastructure, from electric grids to traffic lights, making them prey to attack. The variability in security issues fluctuates due to some SCADA systems being proprietary while others are not (SCADA Systems). Unfortunately, if attackers gain access, they could disrupt services and cause physical damage.
+## Strengthening SCADA Security
+Modern IT networks have many tools available to create multiple players of security for SCADA systems. For instance, firewalls and network segmentation limit access while intrusion detection systems monitor for unusual activity. Furthermore, encrypting SCADA communications is necessary to prevent interception or manipulation. Security audits are also important because they identify and address vulnerabilities before they can be exploited. 
+Moreover, most legacy SCADA systems were developed without encryption or authentication, which makes them easy targets for attackers. Many SCADA systems are in place today with legacy firmware and a plethora of vulnerabilities. Fundamental changes must be made to SCADA communications methods to reduce risk.
+## Conclusion
+SCADA systems are essential for industrial applications but are persistently under threat from external actors. Originally designed as standalone networks with no security, SCADA systems now communicate over the Internet which makes them more vulnerable. Therefore, to protect SCADA systems, it is imperative that we implement every network security measure possible. Encryption, intrusion detection and prevention protocols and modern protocols are a step in the right direction for maintaining the stability and security of vulnerable systems.
+## References
+“SCADA Systems.” SCADA Systems, https://scadasystems.net.
+
+TrendMicro. “Industrial Control System.” TrendMicro, https://www.trendmicro.com/vinfo/us/security/definition/industrial-control-system.
