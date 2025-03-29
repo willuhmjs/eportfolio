@@ -1,0 +1,20 @@
+---
+title: "Cybersecurity: The Human Factor"
+date: 03-29-2025
+layout: article
+---
+
+## The Weakest Link
+Every year, thousands of aspiring cybersecurity professionals are taught that the user is the weakest link in the cybersecurity supply chain. Overwhelming evidence supports that mistakes made by humans are the number one threat to information security. For instance, a study by IBM found that ninety-five percent of security breaches were caused mostly by human error (Ahola). Although making mistakes is a natural part of being human, organizations can mitigate these risks through training and access control policies.
+## Security Awareness and Training
+There are a plethora of human-caused cybersecurity breaches that can be prevented by security awareness and training. For instance, phishing attacks, weak passwords, and social engineering can all be prevented through comprehensive training. Phishing can be eliminated by phishing simulations that help the user identify phishing attacks through hands-on experience (TechUnity, Inc). Education employees through training goes a long way in mitigating cybersecurity threats that target vulnerabilities in human psychology.
+## Strong Policies & Enforcement
+One of the easiest ways to reduce human error is to remove the human from the equation. To elaborate, organizations can implement least privilege policies, intrusion prevention systems, and access control lists, which are enforced by automated systems rather than relying solely on human intervention (Lutkevich). When a human employee makes a mistake in the information security supply chain, automated systems can catch this error before it happens or mitigate the consequences of it. 
+For example, role-based access control prevents unauthorized access by ensuring that users can only perform actions within their assigned roles. This automation not only increases efficiency but also improves overall security posture by reducing the window for potential breaches. Furthermore, automated enforcement of these controls ensures that any deviation from established policies is promptly detected and remediated, thereby minimizing the impact of human error (Cyber Management Alliance).
+## Conclusion
+It is imperative that organizations recognize that while human error is an inevitable part of cybersecurity, it can be mitigated through education, policy enforcement, and technological safeguards. By investing in security awareness training and implementing strong access control measures, businesses can reduce reliance on human-decision making, significantly strengthening their cybersecurity posture. As technology evolves, businesses will need to take strides to mitigate human mistakes, creating a more secure and resilient cybersecurity infrastructure.	
+## References
+Ahola, Micke. “The Role of Human Error in Successful Cyber Security Breaches.” The Role of Human Error in Successful Cyber Security Breaches, usecure, https://blog.usecure.io/the-role-of-human-error-in-successful-cyber-security-breaches.
+Cyber Management Alliance. “Role of Human Error in Cybersecurity Breaches and How to Mitigate It.” Cyber Management Alliance, Cyber Management Alliance, 3 March 2025, https://www.cm-alliance.com/cybersecurity-blog/role-of-human-error-in-cybersecurity-breaches-and-how-to-mitigate-it.
+Lutkevich, Ben. “access control list (ACL).” TechTarget, https://www.techtarget.com/searchnetworking/definition/access-control-list-ACL.
+TechUnity, Inc. “The Human Factor in Cybersecurity: Training and Awareness for Reducing Risks.” LinkedIn, LinkedIn, 17 October 2024, https://www.linkedin.com/pulse/human-factor-cybersecurity-training-awareness-reducing-risks-cyoxc/.

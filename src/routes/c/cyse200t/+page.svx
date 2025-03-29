@@ -18,6 +18,9 @@ layout: course
         <li>
     <a href="{base}/c/cyse200t/a/scada">SCADA Systems</a>
     </li>
+            <li>
+    <a href="{base}/c/cyse200t/a/humanfactor">Cybersecurity: The Human Factor</a>
+    </li>
 </ul>
 
 <style>
