@@ -19,6 +19,9 @@ layout: course
     <li>
     <a href="{base}/c/cyse368/a/journaltwo">Reflection Paper 2</a>
     </li>
+        <li>
+    <a href="{base}/c/cyse368/a/journalthree">Reflection Paper 3</a>
+    </li>
 </ul>
 
 <style>
