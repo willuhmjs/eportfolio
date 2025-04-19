@@ -22,6 +22,9 @@ layout: course
         <li>
     <a href="{base}/c/cyse368/a/journalthree">Reflection Paper 3</a>
     </li>
+     <li>
+    <a href="{base}/final.pdf">Final Paper</a>
+    </li>
 </ul>
 
 <style>
