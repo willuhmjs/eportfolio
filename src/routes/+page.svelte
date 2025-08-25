@@ -98,12 +98,12 @@
   <h2>Experience</h2>
   <div class="experience-container">
     <div class="experience-card">
-      <h3>IT Consultant at Old Dominion University</h3>
-      <p><em>Aug 2024 - Present</em></p>
+      <h3>System Administrator at Old Dominion University</h3>
+      <p><em>May 2025 - Present</em></p>
     </div>
     <div class="experience-card">
-      <h3>Web Developer at Old Dominion University Research Foundation</h3>
-      <p><em>Oct 2024 - Dec 2024</em></p>
+      <h3>IT Consultant at Old Dominion University</h3>
+      <p><em>Aug 2024 - May 2025</em></p>
     </div>
     <div class="experience-card">
       <h3>Software Development Intern at AERMOR</h3>
