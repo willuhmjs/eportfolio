@@ -1,0 +1,25 @@
+---
+course: Cybersecurity and the Social Sciences
+number: CYSE 201S
+catalog: This course addresses the social, political, legal, criminological, and economic dimensions of cybersecurity through a social science framework. Students are introduced to a human-factors approach to understanding cybersecurity threats. Attention is given to the social factors that contribute to cyber incidents and the political and legal mechanisms that are developed to control the behaviors of those who create risks and cybersecurity incidents. The class also explores how cybersecurity is studied by social scientists in various social science disciplines.
+layout: course
+---
+
+
+<script>
+    import { base } from '$app/paths';
+</script>
+
+## Course Material
+
+<ul>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalone">Week 1 Journal Entry</a>
+    </li>
+</ul>
+
+<style>
+    li {
+        font-size: 1.2rem;
+    }
+</style>

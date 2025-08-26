@@ -25,6 +25,7 @@
             <a href="#">Core Courses</a>
             <div class="dropdown-content">
                 <a href="{base}/c/cyse200t">CYSE 200T</a>
+                <a href="{base}/c/cyse201s">CYSE 201S</a>
             </div>
         </li>
         <li><a href="{base}/">Home</a></li>

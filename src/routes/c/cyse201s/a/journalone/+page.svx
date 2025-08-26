@@ -1,0 +1,7 @@
+---
+title: Week 1 Journal Entry
+date: 08-25-2025
+layout: article
+---
+
+The categories of the NICE framework tie directly to my interests within the field of cybersecurity, which is very exciting. I am most attracted to the Design and Development and Implementation and Operation Work Role Categories of the framework. As a hobbyist software developer, I would love to conduct secure software development since I have a shared interest in security and software creation. On the other hand, I value the hands-on power of a Systems Administrator, as they generally manage and maintain the entire information technology infrastructure for an organization. I am less interested in Oversight and Governance, as that field is less hands-on and is focused more around policy instead of technical experience. 
