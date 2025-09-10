@@ -16,6 +16,12 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalone">Week 1 Journal Entry</a>
     </li>
+     <li>
+        <a href="{base}/c/cyse201s/a/journaltwo">Week 2 Journal Entry</a>
+    </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalthree">Week 3 Journal Entry</a>
+    </li>
 </ul>
 
 <style>

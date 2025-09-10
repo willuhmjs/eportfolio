@@ -1,0 +1,15 @@
+---
+title: Week 3 Journal Entry
+date: 09-10-2025
+layout: article
+---
+
+There is a plethora of data points that cybersecurity professionals can leverage when
+researching data breaches to predict future events and stop them before they occur. The Data
+Breach Chronology report created by the Privacy Rights Clearinghouse illustrates these points in
+detail. Researchers can leverage data regarding the reporters of data breaches to estimate which
+legal jurisdictions are most subject to attacks, or at the very least, which state entities report them
+the most. Furthermore, the Privacy Rights Clearinghouse summarizes the means by which
+attackers breach systems as well as the sectors targeted the most by threat actors. With this
+information, we can predict which industry sectors may be the most vulnerable to attacks and
+create solutions that counter such attacks.
