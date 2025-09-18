@@ -1,0 +1,7 @@
+---
+title: Week 4 Journal Entry
+date: 09-18-2025
+layout: article
+---
+
+There are five levels to Maslow’s Hierarchy of Needs, and all of them can be applied in the context of social science and cyber security to everyday life. At the most basic Physiological level, I rely on technology to regulate my home’s temperature and order food, which are essential needs for survival. At the next level, safety and security, I leverage mobile banking for financial security and two factor authentication to protect my government and health accounts, which connects back into the physiological category of needs. In the next category, love and belonging, I use social media and instant messaging apps to communicate and strengthen relationships with friends and family. My needs for self-esteem are met through professional professional recognition on platforms such as Linkedin; positive feedback on social media also helps build self-esteem, which also ties back into the category of love and belonging. Finally, self-actualization is pursued by using online courses to acquire new skills and creative software to express myself, fulfilling my personal potential.
