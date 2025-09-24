@@ -1,0 +1,7 @@
+---
+title: 'Journal Entry 5'
+date: '2025-09-24'
+layout: article
+---
+
+While it may seem there is a lot of nuance behind the rankings of cybercriminal motives, it's actually relatively straightforward. Hacking for money is the most logical motive because it is a direct and logical driver for action. With money, cybercriminals can use it for anything from living expenses to luxury goods. The pursuit of wealth is a universally understood motivation; for many college students, it is the primary reason they work so hard for their degree. After money, hackers commit cybercrime for political means. Beyond money, politically driven cyberattacks are the following effective means to an end, whether that be protest, espionage, or even warfare. After this comes recognition; once you are satisfied with your wealth and political goals, many hackers would seek to be recognized for their hard work within the criminal subculture. Next is revenge, as anger is a significant motivator. Someone who believes they have been wronged may use cybercrime to inflict targeted emotional and psychological harm on their opponents. The last few motives, curiosity, boredom, and entertainment, are quite tame and less effective in terms of achieving a goal compared to the other motives. Most cybercriminals would not risk their freedom for a quick laugh or to pass the time. 
