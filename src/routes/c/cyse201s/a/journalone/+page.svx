@@ -1,5 +1,5 @@
 ---
-title: Week 1 Journal Entry
+title: 'Week 1 Journal Entry: NICE Framework Interests'
 date: 08-25-2025
 layout: article
 ---

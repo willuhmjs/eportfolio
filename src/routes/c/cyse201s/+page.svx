@@ -14,22 +14,22 @@ layout: course
 
 <ul>
     <li>
-        <a href="{base}/c/cyse201s/a/journalone">Week 1 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journalone">Week 1 Journal Entry: NICE Framework Interests</a>
     </li>
      <li>
-        <a href="{base}/c/cyse201s/a/journaltwo">Week 2 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journaltwo">Week 2 Journal Entry: Theories and Evidence</a>
     </li>
     <li>
-        <a href="{base}/c/cyse201s/a/journalthree">Week 3 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journalthree">Week 3 Journal Entry: Data Breach Chronology</a>
     </li>
     <li>
-        <a href="{base}/c/cyse201s/a/journalfour">Week 4 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journalfour">Week 4 Journal Entry: Maslow's Hierarchy of Needs</a>
     </li>
     <li>
-        <a href="{base}/c/cyse201s/a/journalfive">Week 5 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journalfive">Week 5 Journal Entry: Cybercriminal Motives</a>
     </li>
     <li>
-        <a href="{base}/c/cyse201s/a/journalsix">Week 6 Journal Entry</a>
+        <a href="{base}/c/cyse201s/a/journalsix">Week 6 Journal Entry: Phishing Scams</a>
     </li>
 </ul>
 

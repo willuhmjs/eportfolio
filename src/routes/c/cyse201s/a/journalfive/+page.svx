@@ -1,5 +1,5 @@
 ---
-title: 'Journal Entry 5'
+title: 'Week 5 Journal Entry: Cybercriminal Motives'
 date: '2025-09-24'
 layout: article
 ---

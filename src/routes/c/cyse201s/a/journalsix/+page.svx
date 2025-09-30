@@ -1,5 +1,5 @@
 ---
-title: Week 6 Journal Entry
+title: 'Week 6 Journal Entry: Phishing Scams'
 date: '2025-09-30'
 layout: article
 description: Can you spot three fake websites? Compare the three fake websites to three real websites and highlight the features and similarities that identify each fake website as fraudulent.

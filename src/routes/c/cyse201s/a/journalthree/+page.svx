@@ -1,5 +1,5 @@
 ---
-title: Week 3 Journal Entry
+title: 'Week 3 Journal Entry: Data Breach Chronology'
 date: 09-10-2025
 layout: article
 ---

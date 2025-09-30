@@ -1,5 +1,5 @@
 ---
-title: Week 4 Journal Entry
+title: "Week 4 Journal Entry: Maslow's Hierarchy of Needs"
 date: 09-18-2025
 layout: article
 ---
