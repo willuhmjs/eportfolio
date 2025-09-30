@@ -1,0 +1,12 @@
+---
+title: Week 6 Journal Entry
+date: '2025-09-30'
+layout: article
+description: Can you spot three fake websites? Compare the three fake websites to three real websites and highlight the features and similarities that identify each fake website as fraudulent.
+---
+
+Every year, hundreds of thousands of people around the world fall victim to phishing scams. Therefore, as cybersecurity experts, it is our job to decrease this number as much as possible. The best way to do this is to educate end users on the signs of phishing so they can avoid being victimized. One example of a phishing scam is provided by Memcyco; the site reads “pay-pail.com” instead of “PayPal.com” which is an obvious but often overlooked sign that the website is fraudulent. Besides this, the website itself looks nearly identical to the legitimate PayPal login page, so its imperative that users check the URL before entering sensitive information. Another common type of phishing uses SEO poisoning to put a fraudulent website to the top of search results. For example, fake Apple support sites leverage SEO to hijack troubleshooting phrases and redirect users to their website, where they can exploit the users trust into providing money or personal information. In this case, the URL is also the major giveaway, as its impossible to trust any content on the website itself. However, unless your DNS server is compromised, you generally can trust that scammers won’t gain access to the real apple.com DNS record. One last example of a phishing scam occurred in 2023, where websites pretending to be Netflix told users their accounts were suspended, prompting the users to enter their credit card information. Once the attacker has led a user to their website, they can show the user whatever content they would like in order to deceive the user. As a result, the end user must always be vigilant online to avoid being scammed. 
+
+### Sources
+
+5 Recent Examples of Fake Websites. (2024, September 11). Memcyco. Retrieved September 30, 2025, from https://www.memcyco.com/5-recent-examples-of-fake-websites/
