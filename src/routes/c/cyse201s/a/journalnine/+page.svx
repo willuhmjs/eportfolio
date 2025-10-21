@@ -1,6 +1,7 @@
 ---
-title: "Journal Entry 9"
-date: "2025-10-21"
+title: 'Week 9 Journal Entry: Social Media Disorder Scale'
+date: 10-21-2025
+layout: article
 ---
 <script>
     import Article from "$lib/layouts/Article.svelte";
