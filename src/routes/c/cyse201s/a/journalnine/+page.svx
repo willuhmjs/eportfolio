@@ -1,0 +1,12 @@
+---
+title: "Journal Entry 9"
+date: "2025-10-21"
+---
+<script>
+    import Article from "$lib/layouts/Article.svelte";
+</script>
+<Article>
+
+After completing the Social Media Disorder Scale, I scored 3 out of 9. These results suggest risky usage, implying I sometimes rely on social media in ways that could be problematic if not managed carefully. Furthermore, I recognize that I sometimes use social media as a coping mechanism for stress or boredom. However, the results also indicate that I exercise due diligence in ensuring it doesn’t result in conflicts or neglect of responsibility. While I believe the scale is interesting and asks good questions about social media usage, I don’t think it should be taken seriously as a method for diagnosing social media use disorders among people. Similarly to tests for anxiety and depression, the test asks broad, subjective questions but scores them on a nine point scale. Although it was fun to participate, the test does not capture the nuances of social media addiction well enough for it to be applied in any meaningful way.
+
+</Article>

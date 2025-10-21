@@ -31,6 +31,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalsix">Week 6 Journal Entry: Phishing Scams</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalnine">Week 9 Journal Entry: Social Media Disorder Scale</a>
+    </li>
 </ul>
 
 <style>
