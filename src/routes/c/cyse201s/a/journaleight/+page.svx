@@ -1,6 +1,7 @@
 ---
 title: "Journal Entry 8"
 date: "2025-10-21"
+layout: article
 ---
 
 After watching the video, I am confident that Hollywood takes large creative leaps by portraying cybersecurity techniques, methods, and culture in ways that are highly inaccurate. To be specific, the portrayals are almost always sensationalized beyond reality. Movies create a flashy reality where hacking is a spectacle of excitement, or some sort of “magic box.” For example, a film may portray a hacker cracking a password in mere seconds instead of many months, often with flying visuals and imagery that captivate the viewer. While these portrayals are very entertaining to watch, the truth is that cybersecurity is often a very stressful, patient, and meticulous field, even in the heat of cyber warfare. Despite this, the influence isn’t always negative. Films like _The Matrix Reloaded_ feature a real world tool called _nmap_, even going so far as to depict its use correctly. So while films like Hackers may not demonstrate the whole truth regarding hacking, some films do take the due diligence in ensuring accurate portrayals.
