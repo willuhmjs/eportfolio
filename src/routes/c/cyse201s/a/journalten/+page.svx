@@ -1,0 +1,9 @@
+---
+title: 'Journal Entry 10: Human Factors'
+date: '2025-10-28'
+layout: article
+---
+
+Everyone agrees that humans are the weakest link in the cybersecurity chain of defense. While computers rely on logic, humans can be easily manipulated by emotions and are often prone to failure. As a result, its absolutely imperative that social scientists work to determine the human and social dimensions of these threats. Instead of focusing solely on protecting systems, cybersecurity professionals must also defend against the manipulation of people.
+
+I liked this paper because it neatly organized and outlined various detection methods. The most notable of these is the user of machine learning algorithms, as the leverages modern advancements in artificial intelligence technology to detect anomalies. Furthermore, I’m glad that they covered the ethical implica tions of AI-based monitoring, as there are many concern with mass surveillance and data collection in the United States.

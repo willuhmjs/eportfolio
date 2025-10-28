@@ -37,6 +37,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalnine">Week 9 Journal Entry: Social Media Disorder Scale</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalten">Week 10 Journal Entry: Human Factors</a>
+    </li>
 </ul>
 
 <style>
