@@ -40,6 +40,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalten">Week 10 Journal Entry: Human Factors</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalten-2">Week 10 Journal Entry: Social Skills</a>
+    </li>
 </ul>
 
 <style>
