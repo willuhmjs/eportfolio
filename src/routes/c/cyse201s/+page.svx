@@ -50,7 +50,7 @@ layout: course
         <a href="{base}/c/cyse201s/a/journaleleven">Week 11 Journal Entry: Applying Social Science Theories to Cybersecurity</a>
     </li>
     <li>
-        <a href="{base}/c/cyse201s/a/journaleleven-2">Week 11 Journal Entry 2: Bug Bounty Programs</a>
+        <a href="{base}/c/cyse201s/a/journaleleven-2">Week 11 Journal Entry: Bug Bounty Programs</a>
     </li>
 </ul>
 
