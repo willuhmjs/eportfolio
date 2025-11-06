@@ -46,6 +46,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalten-2">Week 10 Journal Entry: Social Skills</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journaleleven">Week 11 Journal Entry: Applying Social Science Theories to Cybersecurity</a>
+    </li>
 </ul>
 
 <style>
