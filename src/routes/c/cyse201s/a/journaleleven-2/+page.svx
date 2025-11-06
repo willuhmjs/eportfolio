@@ -1,0 +1,7 @@
+---
+title: 'Week 11 Journal Entry 2: Bug Bounty Programs'
+date: '2025-11-06'
+layout: article
+---
+
+Bug bounty programs are an excellent way to reward the community by offering opportunities for anyone to find and report bugs or vulnerabilities in the malware. Those who work to find these vulnerabilities benefit from the monetary incentive and reputation boost, while the companies benefit from a more secure platform and the destruction of zero-day attacks. Bug bounty policies actively invite ethical hackers to apply their penetration testing skills to discover weaknesses in a company’s cybersecurity infrastructure. The article by Sridhar and Ng reveals a surprising twist in what an outsider may expect, as data points to penetration testers being more motivated by the non-monetary factors like reputation than the size of the bounty itself. The authors quantify this by finding a very low price elasticity of supply, confirming that companies can derive significant utility even with limited budgets. This is further supported by the finding that a company's revenue and brand profile are economically insignificant factors, although the discussion did show that programs receive fewer valid reports as they mature and the easiest bugs are found.
