@@ -52,6 +52,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journaleleven-2">Week 11 Journal Entry: Bug Bounty Programs</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journaltwelve">Week 12 Journal Entry: Illegal Internet Activities</a>
+    </li>
 </ul>
 
 <style>
