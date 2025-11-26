@@ -55,6 +55,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journaltwelve">Week 12 Journal Entry: Illegal Internet Activities</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/journalfifteen">Week 15 Journal Entry: AI and Evidence Fabrication</a>
+    </li>
 </ul>
 
 <style>

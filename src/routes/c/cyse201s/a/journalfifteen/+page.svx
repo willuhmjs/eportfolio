@@ -1,0 +1,6 @@
+---
+title: Week 15 Journal Entry - AI and Evidence Fabrication
+layout: article
+---
+
+Mark Hofmann was very interesting because it reflected a recent epiphany I had on AI regarding the rise of advanced video generation models. Of the various moral concerns he raised, the most interesting I found was the ability for criminals to fabricate evidence to fabricate or deny video evidence. Criminal cases rely on a lot of video submitted by the prosecution, like cell phone and security camera footage. AI algorithms have gotten quite good at generating realistic video, and without watermarks it. Furthermore, I’ve also experimented in the topic Hofmann discussed regarding how easy it is to clone a voice, as you only need a few seconds of speech to make a near-perfect clone. Hofmann discussed that high levels of scrutiny and awareness will be necessary to combat the moral concerns regarding AI, and I am happy that we can see that in the large, almost laughable differences between the ability of Gen Z to identify scams and false content compared to Generation X and Baby Boomer.
