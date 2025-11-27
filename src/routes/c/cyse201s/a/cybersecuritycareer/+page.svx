@@ -1,0 +1,100 @@
+---
+title: "Cybersecurity Practices: Penetration Testers"
+date: 11-15-2025
+layout: article
+---
+
+## Introduction
+
+When the thought of a penetration tester as an occupation comes to mind, most people
+think of ethical hackers breaking through digital barriers and wreaking havoc on an organization,
+before pausing to help the organization remediate any discovered vulnerabilities. While this
+perspective is certainly quite entertaining, it tells only part of the story, as it fails to capture the
+nuances of the cultural and social landscape that penetration testers must be skilled to work
+within. Therefore, an argument can be made that the career of a penetration tester is
+fundamentally an applied social science due to its reliance on ethical social engineering, as
+penetration testers must work within an ethical framework to exploit human behavior and
+understand the sociology of an organization’s trust hierarchy. By exploring the daily routine of a
+penetration tester, social scientists can explore the ethical implications this work has on an
+organization's employees and its internal social dynamics.
+
+## The Psychology of Human Vulnerability
+
+When determining the initial attack vector to infiltrate an organization, it is usually quite
+clear to the attacker that a human vulnerability will be their most reliable avenue. This concept is
+famously summarized by security expert Bruce Schneier, who stated, “amateurs attack machines;
+professionals target people." (Schneier, 2000). Schneier’s opinion is backed by concrete evidence
+from the 2025 Verizon Data Breach Investigations Report, which found that 60% of all data
+breaches involve the human element, including social engineering, errors, or misuse (Verizon,
+2025). Therefore, it's essential to investigate what makes human beings so vulnerable.
+Unsurprisingly, human psychology is to blame, and penetration testers study and apply it
+in their daily work. Social engineering attacks are effective because they exploit cognitive
+shortcuts and our natural tendency to trust, whereas a machine is not vulnerable to such social
+limitations. This is where the core concepts of the social sciences come into play, as an attacker
+has to leverage the principles of persuasion. A penetration tester may leverage the principles of
+authority by impersonating a boss or scarcity by pressuring the victim with a time-constrained
+task (Hadnagy & Fincher, 2015). Therefore, a large part of an effective ethical hacker’s plan is
+building attacks that target predictable psychological weaknesses in the human psyche instead of
+the technology itself.
+
+## The Social Fabric of an Organization
+
+The work of a penetration tester relies on a sociological understanding of their target. In
+other words, the attackers must conduct thorough surveillance of an organization to best know
+how to exploit weaknesses in the organization’s hierarchy and culture instead of just the network
+and infrastructure. For example, when faced with an organization with a rigid, top-down
+hierarchy, a pen tester can exploit this social structure using a technique known as “pretexting.”
+According to Stu Sjouwerman, founder of the security awareness training platform KnowBe4,
+pretexting is defined as a fabricated scenario used to obtain information (Sjouwerman, 2020).
+While pretexting, an ethical hacker may impersonate a high-level executive who is angry or in a
+hurry to leverage the aforementioned social principle of authority. The idea is that such pressure
+overwhelms the target who would be responsible for regulating access, coercing them into
+complying with the demand and bypassing security procedures. In such an attack, no technical
+systems were exploited, and the attacker was able to use a human on the inside to gain access,
+representing a flaw in the social power structure of the organization instead of its cybersecurity
+infrastructure.
+
+## The Framework Behind Ethical Penetration Testing
+
+With all of these nuances to consider, it's important that penetration testers respect ethical
+boundaries while exploring the way threat actors disregard them. Unfortunately, the effectiveness
+of a penetration tester is limited by the rules of engagement, whether that be due to laws,
+company policy, or moral concerns. These rules function as a negotiated social contract, which
+itself is a sociological construct designed to manage the psychological impact on employees.
+These constraints, which are necessary to prevent harm and legal liability, mean that a tester’s
+simulation of an attack is inherently limited (Vertex Cyber Security, 2024). Therefore, it's
+important for penetration testers to work with social scientists to determine what boundaries are
+acceptable when conducting a penetration test, and what advantages malicious hackers would
+have to operate outside of this framework (Baker, 2025). Simply put, ethical hackers should do
+everything they can to infiltrate an organization and discover vulnerabilities during their test
+without causing harm to employees.
+
+## Conclusion
+
+It is clear that the skills required to be a penetration tester go beyond pure technical
+expertise. In reality, their profession is deeply integrated with the practice of applied social
+sciences. Through social engineering, penetration testers exploit vulnerabilities in human
+psychology, demonstrating that people are often the most accessible entry point into an
+organization. However, it's also important that penetration testers operate ethically by respecting
+the fine line between a realistic simulation and the agreed-upon rules designed to keep
+employees and the organization safe from genuine harm. Ultimately, the role of a penetration
+tester exemplifies the intersection of technology, psychology, and ethics, illustrating that
+understanding people is just as crucial to cybersecurity as understanding machines.
+
+## References
+
+Baker, G. (2025, November 13). Rules of Engagement Penetration Testing. FortifyFramework.
+Retrieved November 15, 2025, from
+https://www.fortifyframework.com/rules-of-engagement-penetration-testing/
+Hadnagy, C., & Fincher, M. (2015). Phishing Dark Waters: The Offensive and Defensive Sides of
+Malicious Emails. Wiley.
+Schneier, B. (2000, October 15). Semantic Attacks: The Third Wave of Network Attacks. Schneier
+on Security. Retrieved November 15, 2025, from
+https://www.schneier.com/crypto-gram/archives/2000/1015.html
+Sjouwerman, S. (2020, June 10). Pretexting Defined. KnowBe4. Retrieved November 15, 2025,
+from https://blog.knowbe4.com/pretexting-defined
+Verizon. (2025, May 5). 2025 Data Breach Investigations Report 2025 Data Breach
+Investigations Report. Verizon. Retrieved November 15, 2025, from
+https://www.verizon.com/business/resources/reports/2025-dbir-executive-summary.pdf
+Vertex Cyber Security. (2024, August 13). The Limitations of Penetration Testing. Vertex Cyber
+Security. https://www.vertexcybersecurity.com.au/the-limitations-of-penetration-testing/

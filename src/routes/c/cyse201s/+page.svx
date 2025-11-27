@@ -66,6 +66,9 @@ layout: course
     <li>
         <a href="{base}/c/cyse201s/a/journalfifteen">Week 15 Journal Entry: AI and Evidence Fabrication</a>
     </li>
+    <li>
+        <a href="{base}/c/cyse201s/a/cybersecuritycareer">Career Paper: Penetration Testers</a>
+    </li>
 </ul>
 
 <style>
