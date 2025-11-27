@@ -10,6 +10,11 @@ layout: course
     import { base } from '$app/paths';
 </script>
 
+<div class="course-images">
+    <img src="{base}/cyse201s-1.jpg" alt="CYSE 201S Image 1" />
+    <img src="{base}/cyse201s-2.jpg" alt="CYSE 201S Image 2" />
+</div>
+
 ## Course Material
 
 <ul>
@@ -66,5 +71,15 @@ layout: course
 <style>
     li {
         font-size: 1.2rem;
+    }
+    .course-images {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .course-images img {
+        max-width: 45%;
+        height: auto;
     }
 </style>
