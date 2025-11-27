@@ -29,6 +29,9 @@ layout: course
         <a href="{base}/c/cyse201s/a/articlereviewone">Article Review #1: Effect of Personality Traits on Digital Habits</a>
     </li>
     <li>
+        <a href="{base}/c/cyse201s/a/articlereviewtwo">Article Review #2: Analyzing Hacker Profiles</a>
+    </li>
+    <li>
         <a href="{base}/c/cyse201s/a/journalfive">Week 5 Journal Entry: Cybercriminal Motives</a>
     </li>
     <li>

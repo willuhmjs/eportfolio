@@ -1,0 +1,33 @@
+---
+title: 'Article Review #2: Analyzing Hacker Profiles'
+date: '2025-11-13'
+layout: article
+---
+
+The article, "Understanding the Connection Between Hackers and Their Hacks: Analyzing USDOJ Reports for Hacker Profiles" by Joshua Gerstenfeld (2023), works to deepen the understanding of cybercriminology by exploring the potential connections between the technical specifics of a cyberattack and the social-demographic profile of the attacker. The study incorporates principles from social science by applying the art of criminal profiling directly to cybercriminology, working to determine what characteristics influence certain cybercrime methodologies. The bottom line of the study is that there are significant statistical relationships between a hacker’s methods and their personal characteristics, finding that factors like a hacker’s age, nationality, and whether they work alone correlate directly with their technical choices, such as building custom software or using follow-up exploits.
+
+Analyzing the Experiment
+
+The study's primary research question is: Is there a measurable relationship between the personal characteristics of a hacker (age, gender, residency) and the technical characteristics of the cyberattacks they perpetrate (Gerstenfeld, 2023, p. 60)? To test this, the author introduced several hypotheses, including that hacks with a political or nationalistic element would be predominantly committed by international (non-U.S.) hackers, and that an attack's complexity could indicate if it was committed by an individual or a group. The independent variables were the characteristics of the cyberattacks (e.g., use of social engineering, building custom software, working alone), while the dependent variables were the personal characteristics of the hackers (e.g., age, gender, residency).
+
+Data Collection Methodology and Analysis
+
+The author used quantitative secondary open-source data, reviewing 122 hacker profiles from 54 United States Department of Justice (USDOJ) press releases from 2019 to 2021. The researcher defined variables based on the text to classify hackers and their actions, creating strict "operational definitions" for each variable to maintain consistency. By filtering the text of the press releases into structured quantitative data, the author was able to perform several statistical techniques. T-tests were employed to compare average values (like the age of hackers who built software vs. those who didn't), Chi-square tests were used to find associations between categorical variables, and advanced methods like linear regression and binary logistic regression were used to predict factors like attacker age or the likelihood of a suspect being "International."
+
+Experiment Results and Limitations
+
+The analysis yielded significant findings, such as illustrating that international hackers were more likely to work in groups and build their own software compared to their domestic counterparts. This provides data-driven evidence that international hackers warrant their own classification. However, the methodology suffers from a notable “detection bias,” as the dataset only includes hackers who were caught and prosecuted by the USDOJ. The author acknowledges this limitation, noting that the low number of female hackers in the sample (only 8 of 122) could be because they are better at evading capture and are therefore not represented in this official data. This gap makes it difficult to build an accurate profile for female hackers.
+
+Greater Implications
+
+This study connects directly to course concepts like hacker motivations. It argues that simple labels like “white hat” or “black hat” are not useful for profiling criminals due to their broadness. Instead, the study creates a more nuanced understanding of what influences hacker behavior by discussing the relevance of traditional criminological theories like social learning theory and self-control theory. It also explores how social-group factors, like the high number of males in the field, influence who gets the opportunity to commit these crimes. This is highlighted by the study's major gender disparity (only 7.8% female), which the author suggests could be due to the underrepresentation of women in STEM or, potentially, that women are better at evading capture.
+
+Conclusion
+
+In conclusion, the findings of this study are significant as it delivers an actionable model for analyzing hacker behavior, giving law enforcement and digital forensics investigators a data-driven starting point to develop more accurate profiles. Different types of hacker profiles require different strategies and resources to defend against or hunt down; for instance, an investigation into a lone domestic hacker will be organized far differently than one targeting an international nation-state advanced persistent threat. This study's primary contribution is successfully bridging the gap between social science and cybersecurity, demonstrating that data-driven profiling can be effectively applied to technical data to achieve practical, real-world outcomes and advance our understanding of cybercrime as a human behavior.
+
+References
+
+Gerstenfeld, J. (2023). Understanding the connection between hackers and their hacks:
+Analyzing USDOJ reports for hacker profiles. International Journal of Cybersecurity
+Intelligence and Cybercrime, 6(1), 59–76. http://doi.org/10.52306/NSWY2537
